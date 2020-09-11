@@ -1,0 +1,21 @@
+
+.Tab {
+    color: white;
+    font-weight: bold;
+    background-color: #23b86d;
+    border:1px solid #23b86d;
+    margin: 2px;
+}
+
+.Tab p{
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Tab:hover {
+    background-color: white;
+    color: #23b86d;
+    font-weight: bold;
+    border:1px solid #23b86d;
+}
